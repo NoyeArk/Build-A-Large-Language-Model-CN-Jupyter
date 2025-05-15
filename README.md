@@ -20,7 +20,7 @@
 
 本教程将带领读者从零开始实现一个简单的大语言模型,深入理解其工作原理。
 
-<img src="https://wechat-account-1251781786.cos.ap-guangzhou.myqcloud.com/logo.png" width="30%" />
+<img src="./image/logo.png" width="50%" />
 
 
 ## 项目结构
