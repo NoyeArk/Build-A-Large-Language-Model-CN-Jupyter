@@ -33,18 +33,18 @@
 
 ### 全书章节
 
-+ [第一章：理解大语言模型](./notebook/1.理解大语言模型.md)
++ [第一章：理解大语言模型](./notebook/1.理解大语言模型.ipynb)
 + [第二章：处理文本数据](./notebook/2.处理文本数据.ipynb)
 + [第三章：实现注意力机制](./notebook/3.实现注意力机制.ipynb)
-+ [第四章：从零开始实现一个用于文本生成的 GPT 模型](./notebook/4.从零开始实现一个用于文本生成的%20GPT%20模型.md)
-+ [第五章：在无标记数据集上进行预训练](./notebook/5.在无标记数据集上进行预训练.md)
-+ [第六章：用于分类任务的微调](./notebook/6.用于分类任务的微调.md)
-+ [第七章：指令遵循微调](./notebook/7.指令遵循微调.md)
-+ [附录A：PyTorch简介](./notebook/附录A.PyTorch简介.md)
-+ [附录B：参考文献和扩展阅读](./notebook/附录B.参考文献和扩展阅读.md)
-+ [附录C：习题解答](./notebook/附录C.习题解答.md)
-+ [附录D：给训练循环添加高级技巧](./notebook/附录D.给训练循环添加高级技巧.md)
-+ [附录E：使用 LoRA 的参数高效微调](./notebook/附录E.使用LoRA的参数高效微调.md)
++ [第四章：从零开始实现一个用于文本生成的 GPT 模型](./notebook/4.从零开始实现一个用于文本生成的GPT模型.ipynb)
++ [第五章：在无标记数据集上进行预训练](./notebook/5.在无标记数据集上进行预训练.ipynb)
++ [第六章：用于分类任务的微调](./notebook/6.用于分类任务的微调.ipynb)
++ [第七章：指令遵循微调](./notebook/7.指令遵循微调.ipynb)
++ [附录A：PyTorch简介](./notebook/附录A.PyTorch简介.ipynb)
++ [附录B：参考文献和扩展阅读](./notebook/附录B.参考文献和扩展阅读.ipynb)
++ [附录C：习题解答](./notebook/附录C.习题解答.ipynb)
++ [附录D：给训练循环添加高级技巧](./notebook/附录D.给训练循环添加高级技巧.ipynb)
++ [附录E：使用 LoRA 的参数高效微调](./notebook/附录E.使用LoRA的参数高效微调.ipynb)
 
 
 ## 个人思考
