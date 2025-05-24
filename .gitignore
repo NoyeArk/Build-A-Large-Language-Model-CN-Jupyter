@@ -1,2 +1,3 @@
-notebook/gpt2/124M/*
+notebook/gpt2/*
 notebook/review_classifier.pth
+notebook/gpt2-medium355M-sft.pth
